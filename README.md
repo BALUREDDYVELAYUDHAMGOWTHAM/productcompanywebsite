@@ -463,7 +463,8 @@ products.html
 
 ### People
 
-![output](images/people.png)
+![output](images/people1.png)
+![output](images/people2.png)
 
 ### Products
 
